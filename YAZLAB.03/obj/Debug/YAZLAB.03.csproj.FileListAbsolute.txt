@@ -1,0 +1,43 @@
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\bin\Debug\YAZLAB.03.exe.config
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\bin\Debug\YAZLAB.03.exe
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\bin\Debug\YAZLAB.03.pdb
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.csprojResolveAssemblyReference.cache
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB._03.Form1.resources
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB._03.Form2.resources
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB._03.Properties.Resources.resources
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.csproj.GenerateResource.Cache
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.exe
+c:\users\almila\documents\visual studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.pdb
+C:\Users\Almila\Documents\Visual Studio 2015\Projects\YAZLAB.03\YAZLAB.03\bin\Debug\YAZLAB.03.exe.manifest
+C:\Users\Almila\Documents\Visual Studio 2015\Projects\YAZLAB.03\YAZLAB.03\bin\Debug\YAZLAB.03.application
+C:\Users\Almila\Documents\Visual Studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.exe.manifest
+C:\Users\Almila\Documents\Visual Studio 2015\Projects\YAZLAB.03\YAZLAB.03\obj\Debug\YAZLAB.03.application
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\bin\Debug\YAZLAB.03.exe.config
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.exe
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.pdb
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\bin\Debug\YAZLAB.03.exe.manifest
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\bin\Debug\YAZLAB.03.application
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\bin\Debug\YAZLAB.03.exe
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\bin\Debug\YAZLAB.03.pdb
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.csprojResolveAssemblyReference.cache
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB._03.Form1.resources
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB._03.Form2.resources
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB._03.Properties.Resources.resources
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.csproj.GenerateResource.Cache
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.exe.manifest
+C:\Users\Talha Sarioglu\Desktop\drive-download-20171022T115529Z-001\YAZLAB.03\obj\Debug\YAZLAB.03.application
+D:\projects\Görüntü Editörü\YAZLAB.03\bin\Debug\YAZLAB.03.exe.config
+D:\projects\Görüntü Editörü\YAZLAB.03\bin\Debug\YAZLAB.03.exe.manifest
+D:\projects\Görüntü Editörü\YAZLAB.03\bin\Debug\YAZLAB.03.application
+D:\projects\Görüntü Editörü\YAZLAB.03\bin\Debug\YAZLAB.03.exe
+D:\projects\Görüntü Editörü\YAZLAB.03\bin\Debug\YAZLAB.03.pdb
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.csprojAssemblyReference.cache
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB._03.Form1.resources
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB._03.Form2.resources
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB._03.Properties.Resources.resources
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.csproj.GenerateResource.cache
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.csproj.CoreCompileInputs.cache
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.exe.manifest
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.application
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.exe
+D:\projects\Görüntü Editörü\YAZLAB.03\obj\Debug\YAZLAB.03.pdb
